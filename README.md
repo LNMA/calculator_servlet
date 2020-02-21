@@ -1,2 +1,4 @@
 # calculator_servlet
-simple calculator useing servlet technology
+simple calculator useing servlet technology.
+
+#(ide -- netbeans).
